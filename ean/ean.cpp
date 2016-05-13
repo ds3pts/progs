@@ -1,7 +1,6 @@
 //============================================================================
 // Name        : ean.cpp
 // Author      : Rohlmann, Dennis
-// Organization: ESCHA Bauelemente GmbH
 //
 // Version     : 1.0
 // Created     : 23.02.2016
